@@ -3,12 +3,14 @@
 
 ## Project Structure
 
+```
 .
 ├── README.md
 ├── algogene_dataset
 │   └── 00005HK_2023-11-14_2024-06-28_H.csv
 ├── config.yaml
 └── fetch_algogene_historical_data.py
+```
 
 ## Useful Link
 
