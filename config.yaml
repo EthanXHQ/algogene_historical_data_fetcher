@@ -1,0 +1,12 @@
+base_url: "https://algogene.com/rest/v1/history_price"
+user_id: "your_id"
+api_key: "your_api_key"
+# number of bar to return, maximum is limited to 1000
+count: 1000
+# specify the candle stick interval, available value include 'T','S','S5','S10','S15','S30','M','M2','M5','M10','M15','M30','H','H2','H3','H4','H6','H12','D'
+interval: "H"
+# value must be one of available instruments from /list_instrument
+instrument: "00005HK"
+# get data from start_time to end_time
+start_time: "2023-11-14"
+end_time: "2024-06-28"
